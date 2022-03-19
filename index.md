@@ -1,5 +1,5 @@
 
-![Image](/portait_150x150.jpg)
+![Image](portrait_150x150.jpg)
 
 # 基本信息
 **姓 名**  ：猪小明         
